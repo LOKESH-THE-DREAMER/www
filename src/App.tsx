@@ -33,11 +33,11 @@ function App() {
         {/* Social Links */}
         <div className="flex justify-center gap-6 mb-12">
           {[
-            { Icon: Github, link: "https://github.com" },
-            { Icon: Linkedin, link: "https://linkedin.com" },
+            { Icon: Github, link: "https://github.com/l0kireddy/" },
+            { Icon: Linkedin, link: "https://linkedin.com/in/l0kireddy" },
             { Icon: Twitter, link: "https://twitter.com" },
             { Icon: Instagram, link: "https://instagram.com" },
-            { Icon: Mail, link: "mailto:contact@example.com" }
+            { Icon: Mail, link: "kannapareddyl@gmail.com" }
           ].map(({ Icon, link }, index) => (
             <a
               key={index}
