@@ -27,8 +27,8 @@ function App() {
     <div className="min-h-screen bg-black text-white">
       {/* Hero Section */}
       <header className="container mx-auto px-4 py-20 text-center">
-        <h1 className="text-6xl mb-6">John Doe</h1>
-        <p className="text-2xl text-gray-400 mb-8">Full Stack Developer & Designer</p>
+        <h1 className="text-6xl mb-6">Lokesh Reddy</h1>
+        <p className="text-2xl text-gray-400 mb-8">AI Prompt Engineer</p>
         
         {/* Social Links */}
         <div className="flex justify-center gap-6 mb-12">
